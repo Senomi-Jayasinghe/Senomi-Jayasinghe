@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **at NSBM Green University and London Metropolitan University**
 
-- 📄 Know about my experiences [www.linkedin.com/in/senomi-jayasinghe-9476b7280](www.linkedin.com/in/senomi-jayasinghe-9476b7280)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/senomi-jayasinghe-9476b7280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senomi jayasinghe" height="30" width="40" /></a>
